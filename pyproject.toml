@@ -1,0 +1,25 @@
+[project]
+name = "data-science-template"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "celery>=5.5.3",
+    "dotenv>=0.9.9",
+    "dspy>=2.6.24",
+    "fastapi>=0.115.12",
+    "gradio>=5.32.0",
+    "instructor>=1.8.3",
+    "matplotlib>=3.10.3",
+    "numpy<2",
+    "pandas>=2.2.3",
+    "pydantic-ai>=0.0.43",
+    "pydantic-graph>=0.0.43",
+    "pydantic-settings>=2.9.1",
+    "pydantic3>=1.0.14",
+    "seaborn>=0.13.2",
+    "sqlalchemy>=2.0.41",
+    "textgrad>=0.1.8",
+    "together>=1.5.8",
+]
