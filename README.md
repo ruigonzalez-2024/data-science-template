@@ -9,5 +9,4 @@ uv add ipykernel
 uv add matplotlib pandas seaborn  
 uv add gradio
 uv add shiny
-
- uv pip install torch torchvision torchaudio
+uv pip install torch torchvision torchaudio
